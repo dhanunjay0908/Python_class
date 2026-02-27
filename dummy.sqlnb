@@ -1,9 +1,0 @@
-cells:
-  - kind: 2
-    value: "SELECT * from dual;\r
-
-      -- select * from hr.employees;"
-    languageId: oracle-sql
-  - kind: 2
-    value: SELECT username FROM dba_users WHERE username='HR';
-    languageId: oracle-sql
